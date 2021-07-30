@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@500&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Tajawal;
+}
+/*-----E NAVBAR-----*/
+nav{
+    padding: 5px;
+    width: 100%;
+    color: #fff;
+    background-color: white;
+    position:fixed;
+}
+#navlogo{
+    width: 20%;
+    float: left;
+    padding: 10px;
+    letter-spacing: 6px;
+}
+
+#navul{
+    width: 80%;
+    float: left;
+}
+nav li{
+    list-style-type: none;
+    display: inline-block ;
+    padding: 10px;
+    text-align: left;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+nav a:hover{
+    background-color: rgb(177, 177, 177);
+    color: white;
+    transition: 0.5s;
+}
+/*-----S HEADER-----*/
+header img{
+    margin-top: 5px;
+    clear: both;
+    width: 100%;
+    height: auto;
+}
+
+/*-----E HEADER-----*/
+/*--S MAIN--*/
+#about{
+  padding: 10px;
+}
+#about-contant{
+    width: 100%;
+    padding: 50px;
+}
+
+#about-contant-txt{
+    width: 50%;
+    float: left;
+}
+#about-contant-imag{
+    width: 50%;
+    float: left;
+}
+#menu-contant{
+    width: 100%;
+    padding: 50px;
+}
+#menu-contant-txt{
+    width: 50%;
+    float: left;
+}
+#menu-contant-imag{
+    width: 50%;
+    float: left;
+}
+#Contact{
+    clear: both;
+    width: 100%;
+    padding: 100px;
+}
+form{
+    margin-top: 10px;
+}
+.oamo{
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    width: 100%;
+}
+#butt{
+    width: 10%;
+    font-size: 15px;
+    background-color: rgb(158, 158, 158);
+    padding: 5px;
+    border: none;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+/*--E MINE--*/
+
+section li{
+    padding: 10px;
+}
+footer{
+    background-color: rgb(187, 187, 187);
+    clear: both;
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+    height: 70px;
+}
+.footer-one{
+    width: 70%;
+    float: left;
+    text-align: left;
+    padding: 10px;
+}
+.footer-two{
+    width: 30%;
+    float: left;
+    text-align: left;
+    padding: 10px;
+}
+footer i{
+    padding: 5px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
