@@ -1,5 +1,5 @@
 #index-restaurant
-
+index-restaurant
 My first special project
 
 It is a home page for a site that contains a variety of foods (an online restaurant) and you can order from it
